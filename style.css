@@ -357,3 +357,7 @@ section:last-child {
 #company-link{
 	color:#cf8a05;
 }
+
+ul.list {
+	list-style: none;
+}
